@@ -1,1 +1,1 @@
-My repository for Shell basics
+My repository for everything related to Shell

@@ -15,7 +15,7 @@
 
 8-cwd_state: writes into the file ls_cwd_content the result of the command ls -la
 
-7-file:  creates a file named exactly *\'"Holberton School"'\*$?*****:)
+7-file:  creates a file 
 
 9-duplicate_last_line:duplicates the last line of the file iacta
 

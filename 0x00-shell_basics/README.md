@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Script 0 prints the absolute path name of the current working directory.
 Script 1 Displays the contents list of your current directory.
 Script 2 changes the working directory to the user’s home directory.
@@ -18,3 +19,7 @@ Script 16 Creates a script that deletes all files in the current working directo
 Script 17 Creates a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 Script 18 Writes a command that lists all the files and directories of the current directory
 Script 19 Create a magic file school.mgc that can be used with the command file to detect School data files. 
+=======
+Task 0 prints the absolute path name of the current working directory
+
+>>>>>>> 13c394d47f27b4d1bab5bdc75f938629d0d23845
